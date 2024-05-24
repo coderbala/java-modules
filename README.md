@@ -4,7 +4,7 @@ This repository contains a simple example project demonstrating the use of the J
 Overview
 The project is structured into several modules:
 
-com.dn.client - The client application module.
+`com.dn.client` - The client application module.
 com.dn.service - A service module.
 com.dn.shapes - A shapes module.
 Each module has its own module-info.java file defining its dependencies and exports.
